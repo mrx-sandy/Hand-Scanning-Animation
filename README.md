@@ -1,13 +1,15 @@
-Hand Scanning Animation 👋🔍✨
+# Hand Scanning Animation 👋🔍✨
 Welcome to the Hand Scanning Animation project! This repository contains the code and resources for creating a captivating and interactive hand scanning animation effect.
 
-Overview 🌟
+# Overview 🌟
+
 Hand scanning animations are often used in various applications, from security systems to sci-fi interfaces, to convey a sense of futuristic technology. This project provides a straightforward way to implement such an animation in your web or mobile applications, enhancing the user experience.
 
 ![Screenshot (49)](https://github.com/mrx-sandy/Hand-Scanning-Animation/assets/140395297/50117311-28ae-4100-b1a7-eb05c7bd1e9d)
 
 
-Features 🚀
+# Features 🚀
+
 Realistic hand scanning animation.
 Customizable scan duration and colors.
 Easily integrate into your web or mobile app.
@@ -15,7 +17,8 @@ Cross-browser and cross-platform compatibility.
 ![Screenshot (51)](https://github.com/mrx-sandy/Hand-Scanning-Animation/assets/140395297/648b9d93-8504-4559-8f46-d773447278d8)
 
 
-Usage 📊
+# Usage 📊
+
 You can use this hand scanning animation in various scenarios, such as:
 
 Authentication screens.
